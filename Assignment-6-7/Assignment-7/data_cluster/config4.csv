@@ -1,0 +1,40 @@
+
+===== Threads: 1 =====
+Total Interpolation Time = 7.149457 seconds
+Total Normalization Time = 0.007457 seconds
+Total Mover Time = 9.002897 seconds
+Total Denormalization Time = 0.003274 seconds
+Total Algorithm Time = 16.163085 seconds
+Total Number of Voids = 5
+
+===== Threads: 2 =====
+Total Interpolation Time = 5.174570 seconds
+Total Normalization Time = 0.004736 seconds
+Total Mover Time = 6.263707 seconds
+Total Denormalization Time = 0.003604 seconds
+Total Algorithm Time = 11.446617 seconds
+Total Number of Voids = 7
+
+===== Threads: 4 =====
+Total Interpolation Time = 2.680314 seconds
+Total Normalization Time = 0.002731 seconds
+Total Mover Time = 3.186656 seconds
+Total Denormalization Time = 0.001980 seconds
+Total Algorithm Time = 5.871681 seconds
+Total Number of Voids = 13
+
+===== Threads: 8 =====
+Total Interpolation Time = 1.710926 seconds
+Total Normalization Time = 0.001827 seconds
+Total Mover Time = 1.854877 seconds
+Total Denormalization Time = 0.001368 seconds
+Total Algorithm Time = 3.568997 seconds
+Total Number of Voids = 19
+
+===== Threads: 16 =====
+Total Interpolation Time = 0.985706 seconds
+Total Normalization Time = 0.003310 seconds
+Total Mover Time = 1.080983 seconds
+Total Denormalization Time = 0.002077 seconds
+Total Algorithm Time = 2.072076 seconds
+Total Number of Voids = 29
